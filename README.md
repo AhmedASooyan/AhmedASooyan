@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedASooyan
 - 👀 I’m interested in ... In becoming a Full-stack developer.
-- 🌱 I’m currently learning ... ReactJS, Tailwind and Next.
+- 🌱 I’m currently learning ... ReactJS, Tailwind, Bootstrap and NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... On my email Ahmedalisooyan@gmail.com
 
